@@ -4,6 +4,7 @@
 		<AssemblyName>CarinaStudio.AppSuite.Fonts</AssemblyName>
 		<PackageId>CarinaStudio.AppSuite.Fonts</PackageId>
 		<RootNamespace>CarinaStudio.AppSuite</RootNamespace>
+		<TargetFrameworks>net9.0</TargetFrameworks>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

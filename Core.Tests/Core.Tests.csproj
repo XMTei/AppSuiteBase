@@ -1,9 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<AssemblyName>CarinaStudio.AppSuite.Core.Tests</AssemblyName>
 		<PackageId>CarinaStudio.AppSuite.Core.Tests</PackageId>
 		<RootNamespace>CarinaStudio.AppSuite</RootNamespace>
+		<TargetFrameworks>net9.0</TargetFrameworks>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

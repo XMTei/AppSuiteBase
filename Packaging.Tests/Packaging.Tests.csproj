@@ -7,6 +7,7 @@
 		<Nullable>enable</Nullable>
     <RootNamespace>CarinaStudio.AppSuite.Packaging</RootNamespace>
 		<AssemblyName>CarinaStudio.AppSuite.Packaging.Tests</AssemblyName>
+		<TargetFrameworks>net9.0</TargetFrameworks>
   </PropertyGroup>
 
   <ItemGroup>
